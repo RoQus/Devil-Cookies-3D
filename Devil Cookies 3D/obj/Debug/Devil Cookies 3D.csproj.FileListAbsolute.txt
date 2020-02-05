@@ -1,0 +1,10 @@
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\bin\Debug\Devil Cookies 3D.exe.config
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\bin\Debug\Devil Cookies 3D.exe
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\bin\Debug\Devil Cookies 3D.pdb
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil Cookies 3D.csprojAssemblyReference.cache
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil_Cookies_3D.Properties.Resources.resources
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil Cookies 3D.csproj.GenerateResource.cache
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil Cookies 3D.exe
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil Cookies 3D.pdb
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil_Cookies_3D.Form1.resources
+C:\Users\DesQ\source\repos\Devil Cookies 3D\Devil Cookies 3D\obj\Debug\Devil_Cookies_3D.Forms.SetTreangular2D.resources
